@@ -1,0 +1,6 @@
+---
+program: is_even
+inputs:
+  num: 2
+expected_outputs:
+  is_even: true
